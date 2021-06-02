@@ -1,0 +1,4 @@
+jupyterlab
+seaborn
+cookiecutter
+scikit-learn
